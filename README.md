@@ -2,15 +2,15 @@
 
 -- Work in progress --
 
-A simplified learning path for getting to understand blockchain and the Polkadot Ecosystem. It's important that this is a suggestion you can follow, but it's not the only way. You can follow this path or you can follow your own path. The important thing is to learn and understand the technology. The are may be some concepts that you would understand the second time you read them, so don't be afraid to read them again.
+A simplified learning path for getting to understand blockchain and the Polkadot Ecosystem. It's important that this is a suggestion you can follow, but it's not the only way. You can follow this path or you can follow your path. The important thing is to learn and understand the technology. There may be some concepts that you would understand the second time you read them, so don't be afraid to read them again.
 
-If you are not developer you can skip the parts where the people talk about code.
+If you are not a developer you can skip the parts where the people talk about code.
 
-PR, questions and comments are welcome !
+PR, questions and comments are welcome!
 
 ## Cryptography
 
-It would be great to know criptography before going depth into Polkadot. Here are some resources to get you started:
+It would be great to know cryptography before going in-depth into Polkadot. Here are some resources to get you started:
 
 #### Public key cryptography
 
@@ -19,7 +19,7 @@ It would be great to know criptography before going depth into Polkadot. Here ar
 
 #### Digital signatures
 
-1. [Cryptography Digital Signitures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm) [Text] (Est. time: 10 minutes)
+1. [Cryptography Digital Signatures](https://www.tutorialspoint.com/cryptography/cryptography_digital_signatures.htm) [Text] (Est. time: 10 minutes)
 2. [What are Digital Signatures and How Do They Work?](https://www.youtube.com/watch?v=JR4_RBb8A9Q) [Video] (Est. time: 3 minutes)
 
 #### Cryptographic hashing
@@ -65,7 +65,7 @@ It would be great to know criptography before going depth into Polkadot. Here ar
 15. [Zombienet](https://www.twitch.tv/videos/1737983583) [Video] (Est. time: 1 hour)
 16. TODO: Polkadot-JS
 17. TODO: Substrate
-18. TODO: Frame Pallets (librerias)
+18. TODO: Frame Pallets
 19. [Ink! 101](https://www.youtube.com/live/_J6BsbOaedw?feature=share&t=254) [Video]
 20. [EVM vs Wasm Smart Contracts](https://727-ventures.github.io/openbrush-contracts/evm-wasm-smart-contracts) [Text]
 21. Blockspace over Blockchain
