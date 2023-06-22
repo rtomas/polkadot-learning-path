@@ -83,13 +83,14 @@ It would be great to know cryptography before going in-depth into Polkadot. Here
 #### Extras
 
 1. [Polkadot Blockchain Academy](https://polkadot.network/development/academy/?academy_ref_id=PBA076513T)
-1. [Overview of Polkadot and its Design Considerations](https://eprint.iacr.org/2020/641.pdf) [Text]
-1. [Polkadot Protocol Specification](https://spec.polkadot.network/) [Text]
-1. [Polkadot Wiki](https://wiki.polkadot.network/) [Text]
-1. [Twitch Channel](https://www.twitch.tv/polkadotdev) [Video]
-1. [Youtube Channel](https://www.youtube.com/@PolkadotNetwork) [Video]
-1. [Polkadot Blockchain Academy](https://polkadot.network/development/academy/) [Info]
-1. [My Experience with Polkadot Blockchain Academy](https://rtomas.hashnode.dev/polkadot-blockchain-academy-experience) [Text]
+2. [Overview of Polkadot and its Design Considerations](https://eprint.iacr.org/2020/641.pdf) [Text]
+3. [EDX Free Online Course "Introduction to Polkadot"](https://www.edx.org/course/introduction-to-polkadot) [Video]
+4. [Polkadot Protocol Specification](https://spec.polkadot.network/) [Text]
+5. [Polkadot Wiki](https://wiki.polkadot.network/) [Text]
+6. [Twitch Channel](https://www.twitch.tv/polkadotdev) [Video]
+7. [Youtube Channel](https://www.youtube.com/@PolkadotNetwork) [Video]
+8. [Polkadot Blockchain Academy](https://polkadot.network/development/academy/) [Info]
+9. [My Experience with Polkadot Blockchain Academy](https://rtomas.hashnode.dev/polkadot-blockchain-academy-experience) [Text]
 
 #### Reference
 
