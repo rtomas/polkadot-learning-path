@@ -67,8 +67,9 @@ It would be great to know cryptography before going in-depth into Polkadot. Here
 17. TODO: Substrate
 18. TODO: Frame Pallets
 19. [Ink! 101](https://www.youtube.com/live/_J6BsbOaedw?feature=share&t=254) [Video]
-20. [EVM vs Wasm Smart Contracts](https://727-ventures.github.io/openbrush-contracts/evm-wasm-smart-contracts) [Text]
-21. Blockspace over Blockchain
+20. [Wallets & ask for tokens](https://rtomas.hashnode.dev/how-to-use-the-open-dream-colors-art-app-with-your-own-wallet-and-ask-for-rocs)
+21. [EVM vs Wasm Smart Contracts](https://727-ventures.github.io/openbrush-contracts/evm-wasm-smart-contracts) [Text]
+22. Blockspace over Blockchain
     - [Blockspace over Blockchain](https://www.rob.tech/polkadot-blockspace-over-blockchains/) [Text]
     - [Blockspace over Blockchain](https://www.youtube.com/watch?v=AEqOQQ5MHKk) [Video]
 
@@ -77,8 +78,9 @@ It would be great to know cryptography before going in-depth into Polkadot. Here
 #### Developer
 
 1. TODO: Node Template
-2. TODO: Frontend Template
-3. TODO: Ink!
+2. Ink!
+   + [Create a Smart Contract in ink!](https://rtomas.hashnode.dev/create-a-smart-contract-in-ink)
+3. TODO: Frontend Template
 
 #### Extras
 
